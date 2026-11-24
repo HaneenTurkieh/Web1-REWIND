@@ -1,3 +1,4 @@
+/*  industrial editorial identity  */
 body {
     margin: 0;
     font-family: 'DM Sans', sans-serif;
@@ -237,3 +238,20 @@ body {
     color :#c8c9c4;
     
 }
+
+
+.exhibition{
+    display: flex;
+    flex-direction: row;
+    background-color: #C8C9C4;
+
+}
+.exhibition .exhibition-title{
+   color:#A94C3B
+
+}
+
+/* .exhibition  */
+
+
+
